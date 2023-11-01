@@ -102,3 +102,8 @@ Wiggers, Kyle, “LlamaIndex adds private data to large language models”. Tech
 
 “Natural language Processing Market.” Future Market Insights, Aug 2023, https://www.futuremarketinsights.com/reports/natural-language-processing-nlp-market
 
+###Code Sources
+
+Module 1 curriculum, Common Commands.md file
+Module 1 notes from week 1 course presentions
+"Can I add existing text in README.md", "Can I make corrections in a README.md", "Add a title to README.md", "What is a block quote in git hub", "Add a hyperlink" promt. ChatGPT, 2022 Jan version, OpenAI, 31 Oct 2023, chat.openai.com. 
