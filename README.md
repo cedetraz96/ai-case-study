@@ -1,3 +1,5 @@
+[Visit my GitHub Repository] (https://github.com/cedetraz96/ai-case-study)
+
 #Hugging Face - Case Study
 
 > Prior to the founding of Hugging Face, CEO Clement Delangue founded Unishared in 2011, the idea formed in college while sitting in a lecture hall.  He was frustrated with the standard, archaic seating arrangement with everyone facing forward to listen to a guest lecturer and where everyone was taking the exact same notes. He also disliked staring at the back of people’s heads and felt isolated even in a room filled with fellow students. For Mr. Delangue, he wanted a connection with the people around him and did this through tweeting where he shared his grievance about the situation, “Why would we be doing that…without sharing with each other.  Without sharing externally?” (Eifling 2023, para. 2) His belief was that everyone was missing out on collaborating and sharing insights with a community of students who had the luxury of being able to afford a higher education. That night, he began work on a solution.  
